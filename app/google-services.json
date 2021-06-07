@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "901777385948",
+    "firebase_url": "https://testproject-27e6e-default-rtdb.firebaseio.com",
+    "project_id": "testproject-27e6e",
+    "storage_bucket": "testproject-27e6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901777385948:android:b81c8dfcfc65b256848719",
+        "android_client_info": {
+          "package_name": "com.bryansoria.searchbarv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901777385948-s4ld5t25i0oko0cj7js3av1m5pda8hb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATwGzzq1LCRFQbUE3UwXFlz2ys395Otig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901777385948-s4ld5t25i0oko0cj7js3av1m5pda8hb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
